@@ -1,5 +1,8 @@
 # Human-Resource-Analysis-Using-Power-BI
 
+![image](https://github.com/user-attachments/assets/b2a5340c-9824-4a55-af4e-0e3bb6ad4bdd)
+
+
 Human Resource Dashboard allows to get overview of the company employees. This HR Insights defines employees remote work and attendance. Most of the employees like to take work from home from week ends. Based on the insights we can easily notice the employee health condition and at the same time we can manage the company maintenance, Team lunch and other extra curricular activates
 
 📈 Key Metrics:
